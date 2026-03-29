@@ -37,6 +37,13 @@ Contributor to [Kubernetes](https://github.com/kubernetes) ([test-infra](https:/
 
 I write on **[Medium](https://medium.com/@maninder.bindra)** about Kubernetes, Security, Azure, and DevOps.
 
+### 🤖 Recent AI / Copilot Articles
+
+| Article | Topic |
+|---------|-------|
+| [Under the Hood: Tracing a Single Copilot CLI Request End-to-End](https://medium.com/microsoftazure/under-the-hood-tracing-a-single-copilot-cli-request-end-to-end-afeb1baad5d5) | Copilot CLI internals |
+| [Three Failed Attempts and a Two-Sentence Fix for System Prompt Leakage](https://medium.com/microsoftazure/why-system-prompt-design-still-matters-for-preventing-prompt-leakage-69cca6eabc76) | AI security / prompt leakage |
+
 ### 📈 Popular Articles
 
 | Article | Repository | Views |
