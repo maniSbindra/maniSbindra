@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mani Bindra
 
-**Principal Software Engineer** | [Azure/mpf](https://github.com/Azure/mpf) Maintainer | Conference Speaker | Gopher 🐹
+**Principal Software Engineer** | [Azure/mpf](https://github.com/Azure/mpf) & [Microsoft/sbi](https://github.com/microsoft/sbi) Maintainer | Conference Speaker | Gopher 🐹
 
 🐹 **Gopher** • 🔐 **Security** • ☁️ **Cloud** • 🐳 **Containers** • ☸️ **Kubernetes** • 🔧 **DevOps**
 
