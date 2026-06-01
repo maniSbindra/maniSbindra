@@ -37,6 +37,13 @@ Contributor to [Kubernetes](https://github.com/kubernetes) ([test-infra](https:/
 
 I write on **[Medium](https://medium.com/@maninder.bindra)** about Kubernetes, Security, Azure, and DevOps.
 
+### 🔐 Recent Security / Cloud Articles
+
+| Article | Topic |
+|---------|-------|
+| [The best MCR base image for your language? SBI scans nightly so you don't have to](https://medium.com/microsoftazure/the-best-mcr-base-image-for-your-language-sbi-scans-nightly-so-you-dont-have-to-62f17587a45e) | Secure base image recommendations / container supply chain |
+| [Raspberry Pi Pico as a USB Keyboard: GRUB Automation and BadUSB Lessons for USB Security](https://medium.com/@maninder.bindra/raspberry-pi-pico-as-a-usb-keyboard-grub-automation-and-badusb-lessons-for-usb-security-72fc319fe8fb) | USB HID automation / BadUSB security |
+
 ### 🤖 Recent AI / Copilot Articles
 
 | Article | Topic |
